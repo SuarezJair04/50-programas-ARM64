@@ -1,26 +1,26 @@
 # 50-programas-ARM64
-1. [](https://gist.github.com/SuarezJair04/5325708d765f2290351bcb9fa4c733d8)
+1. [Programa capture nombre y lo despliegue](https://gist.github.com/SuarezJair04/5325708d765f2290351bcb9fa4c733d8)
 
-2. [](https://gist.github.com/SuarezJair04/094def665c817ca609f6a6242e392695)
+2. [Programa que suma dos numeros capturados](https://gist.github.com/SuarezJair04/094def665c817ca609f6a6242e392695)
 
-3. [](https://gist.github.com/SuarezJair04/b1c42c129f91af63ee4dd8a66906c42c)
+3. [Programa que cuenta el numero de caracteres](https://gist.github.com/SuarezJair04/b1c42c129f91af63ee4dd8a66906c42c)
 
-4. [](https://gist.github.com/SuarezJair04/4e039604a46be4fe47d29ae9387383e1)
+4. [Programa que convierte de celsius a farenheit y viceversa](https://gist.github.com/SuarezJair04/4e039604a46be4fe47d29ae9387383e1)
 
-5. [](https://gist.github.com/SuarezJair04/fa5d5f4b534a48df710fdc2d04550450)
+5. [Programa que compara dos numeros que el usuario escriba](https://gist.github.com/SuarezJair04/fa5d5f4b534a48df710fdc2d04550450)
 
-6. [](https://gist.github.com/SuarezJair04/e0f813440a5b4d409e1c73953bbf1399)
+6. [Programa que cuenta los numeros impares del 1 al 20](https://gist.github.com/SuarezJair04/e0f813440a5b4d409e1c73953bbf1399)
 
-7. [](https://gist.github.com/SuarezJair04/632265fb46c9cf72647e9855fbff077a)
+7. [Programa de ARM64 convierte hexadecimal a decimal](https://gist.github.com/SuarezJair04/632265fb46c9cf72647e9855fbff077a)
 
-8. [](https://gist.github.com/SuarezJair04/a74d56fcc4dee842e9d3c4aabf3b85f5)
+8. [Programa de ARM64 mayuscula a minuscula y viceversa](https://gist.github.com/SuarezJair04/a74d56fcc4dee842e9d3c4aabf3b85f5)
 
-9. [](https://gist.github.com/SuarezJair04/2e7549a81829c96517720220f7936a3e)
+9. [Programa de ARM64 desplegar del 1 al 10](https://gist.github.com/SuarezJair04/2e7549a81829c96517720220f7936a3e)
 
-10. [](https://gist.github.com/SuarezJair04/f0113c591a9f03cc1d411fc1c1f56589)
+10. [Programa de ARM64 pide que escribas un numero y responde si es par o impar](https://gist.github.com/SuarezJair04/f0113c591a9f03cc1d411fc1c1f56589)
 
-11. [](https://gist.github.com/SuarezJair04/9c2808b888dd18c1b683cae7a3fe1dbb)
+11. [Cuenta regresiva 10 segundos](https://gist.github.com/SuarezJair04/9c2808b888dd18c1b683cae7a3fe1dbb)
 
-12. [](https://gist.github.com/SuarezJair04/1388160aaae223e5d95d5d0179959ef8)
+12. [Calcular factorial de un numero](https://gist.github.com/SuarezJair04/1388160aaae223e5d95d5d0179959ef8)
 
 13. 
