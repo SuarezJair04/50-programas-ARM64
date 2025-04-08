@@ -31,3 +31,5 @@
 
 16. [Contador de digitos](https://gist.github.com/SuarezJair04/ff69e4822e288fb7009fee0a1bf1db18)
 
+17. [Promedio de tres numeros](https://gist.github.com/SuarezJair04/649d818ebc264ecd8fe5b0a84de2274e)
+
