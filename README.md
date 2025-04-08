@@ -23,4 +23,8 @@
 
 12. [Calcular factorial de un numero](https://gist.github.com/SuarezJair04/1388160aaae223e5d95d5d0179959ef8)
 
-13. [Sumar numeros del 1 al 100](https://asciinema.org/a/kmdRaFxQ21b12mqqdgDKZebXj)
+13. [Sumar numeros del 1 al 100](https://gist.github.com/SuarezJair04/994445e960a9f8c4148cb332623f3663)
+
+14. [Loop hasta escribir numero correcto](https://gist.github.com/SuarezJair04/fba13e00216eeacc1b618f6e27101167)
+
+15. 
