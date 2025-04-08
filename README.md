@@ -47,6 +47,6 @@
 
 24.[Inversor de signos](https://gist.github.com/SuarezJair04/279c36518a7b0801ec04c5cf21ede574)
 
-25.[]()
+25.[Numero decimal redondeado](https://gist.github.com/SuarezJair04/ccc344a27e76744c5393116a0529cc6a)
 
 
