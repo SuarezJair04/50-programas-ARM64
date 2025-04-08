@@ -35,3 +35,18 @@
 
 18. [Division](https://gist.github.com/SuarezJair04/ee2391fae6a90e40ebfbb2f7e01ef813)
 
+19.[Cuadrado de un numero](https://gist.github.com/SuarezJair04/5c8b5df1ebcc808ab6f4262fc765a55e)
+
+20.[]()
+
+21.[]()
+
+22.[]()
+
+23.[]()
+
+24.[]()
+
+25.[]()
+
+
