@@ -43,7 +43,7 @@
 
 22.[Binario a decimal](https://gist.github.com/SuarezJair04/0acba77f5366ee25fb0f81b2d22b0d95)
 
-23.[]()
+23.[Detector numero positivo o negativo](https://gist.github.com/SuarezJair04/316d1a390807539894b2b01e7179a81e)
 
 24.[]()
 
