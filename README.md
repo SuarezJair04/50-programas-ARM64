@@ -41,7 +41,7 @@
 
 21.[Decimal a binario](https://gist.github.com/SuarezJair04/803992bbbb5ca9e89baf2dd6fea63150)
 
-22.[]()
+22.[Binario a decimal](https://gist.github.com/SuarezJair04/0acba77f5366ee25fb0f81b2d22b0d95)
 
 23.[]()
 
