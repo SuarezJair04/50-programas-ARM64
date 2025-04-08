@@ -37,7 +37,7 @@
 
 19.[Cuadrado de un numero](https://gist.github.com/SuarezJair04/5c8b5df1ebcc808ab6f4262fc765a55e)
 
-20.[]()
+20.[Lanzamiento de dado](https://gist.github.com/SuarezJair04/cb29d7c34e31b7263cf0fada19770556)
 
 21.[]()
 
