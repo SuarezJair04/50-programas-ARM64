@@ -45,7 +45,7 @@
 
 23.[Detector numero positivo o negativo](https://gist.github.com/SuarezJair04/316d1a390807539894b2b01e7179a81e)
 
-24.[]()
+24.[Inversor de signos](https://gist.github.com/SuarezJair04/279c36518a7b0801ec04c5cf21ede574)
 
 25.[]()
 
