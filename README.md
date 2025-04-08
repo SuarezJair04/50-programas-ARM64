@@ -27,4 +27,4 @@
 
 14. [Loop hasta escribir numero correcto](https://gist.github.com/SuarezJair04/fba13e00216eeacc1b618f6e27101167)
 
-15. 
+15. [Numero primo](https://gist.github.com/SuarezJair04/5c7898b34f98ae5487d48a4e4bcea165)
