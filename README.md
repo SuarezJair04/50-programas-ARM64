@@ -39,7 +39,7 @@
 
 20.[Lanzamiento de dado](https://gist.github.com/SuarezJair04/cb29d7c34e31b7263cf0fada19770556)
 
-21.[]()
+21.[Decimal a binario](https://gist.github.com/SuarezJair04/803992bbbb5ca9e89baf2dd6fea63150)
 
 22.[]()
 
