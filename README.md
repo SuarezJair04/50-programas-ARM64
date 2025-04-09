@@ -61,7 +61,7 @@
 
 31. [Verifica si una palabra es un palindromo o no](https://gist.github.com/SuarezJair04/f62a5b2f96067973a9d032a2830799e8)
 
-32. []()
+32. [Encontrar letra de una palabra especifica](https://gist.github.com/SuarezJair04/67fdb6069d0e129ef9dd9b6b89e8002a)
 
 33. []()
 
