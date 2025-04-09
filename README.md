@@ -55,7 +55,7 @@
 
 28. [Contador de numeros negativos y positivos](https://gist.github.com/SuarezJair04/a09f56b44b8312bd89b9138a73c2caa8)
 
-29. []()
+29. [Juego de la moneda](https://gist.github.com/SuarezJair04/ed2494675befaa0c602964feef980d9f)
 
 30. []()
 
