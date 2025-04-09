@@ -63,7 +63,7 @@
 
 32. [Encontrar letra de una palabra especifica](https://gist.github.com/SuarezJair04/67fdb6069d0e129ef9dd9b6b89e8002a)
 
-33. []()
+33. [Unir dos cadenas](https://gist.github.com/SuarezJair04/5a3ec69959154365eab3fc8cab088688)
 
 34. []()
 
