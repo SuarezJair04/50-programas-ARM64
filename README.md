@@ -57,7 +57,7 @@
 
 29. [Juego de la moneda](https://gist.github.com/SuarezJair04/ed2494675befaa0c602964feef980d9f)
 
-30. []()
+30. [Escribiendo una cadena de forma inversa](https://gist.github.com/SuarezJair04/b3a1cc5d0bcad1484f9b880d06ba0825)
 
 31. []()
 
