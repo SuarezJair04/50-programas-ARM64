@@ -51,7 +51,7 @@
 
 26. [Generador de piramide](https://gist.github.com/SuarezJair04/686808bb3040eb4e392b2e9a17aa1078)
 
-27. []()
+27. [Suma de digitos](https://gist.github.com/SuarezJair04/1eea4b2e7f8f4f4244ea59706e7219c2)
 
 28. []()
 
