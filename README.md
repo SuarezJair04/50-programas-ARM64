@@ -49,4 +49,24 @@
 
 25.[Numero decimal redondeado](https://gist.github.com/SuarezJair04/ccc344a27e76744c5393116a0529cc6a)
 
+26. [Generador de piramide](https://gist.github.com/SuarezJair04/686808bb3040eb4e392b2e9a17aa1078)
+
+27. []()
+
+28. []()
+
+29. []()
+
+30. []()
+
+31. []()
+
+32. []()
+
+33. []()
+
+34. []()
+
+35. []()
+
 
