@@ -35,19 +35,19 @@
 
 18. [Division](https://gist.github.com/SuarezJair04/ee2391fae6a90e40ebfbb2f7e01ef813)
 
-19.[Cuadrado de un numero](https://gist.github.com/SuarezJair04/5c8b5df1ebcc808ab6f4262fc765a55e)
+19. [Cuadrado de un numero](https://gist.github.com/SuarezJair04/5c8b5df1ebcc808ab6f4262fc765a55e)
 
-20.[Lanzamiento de dado](https://gist.github.com/SuarezJair04/cb29d7c34e31b7263cf0fada19770556)
+20. [Lanzamiento de dado](https://gist.github.com/SuarezJair04/cb29d7c34e31b7263cf0fada19770556)
 
-21.[Decimal a binario](https://gist.github.com/SuarezJair04/803992bbbb5ca9e89baf2dd6fea63150)
+21. [Decimal a binario](https://gist.github.com/SuarezJair04/803992bbbb5ca9e89baf2dd6fea63150)
 
-22.[Binario a decimal](https://gist.github.com/SuarezJair04/0acba77f5366ee25fb0f81b2d22b0d95)
+22. [Binario a decimal](https://gist.github.com/SuarezJair04/0acba77f5366ee25fb0f81b2d22b0d95)
 
-23.[Detector numero positivo o negativo](https://gist.github.com/SuarezJair04/316d1a390807539894b2b01e7179a81e)
+23. [Detector numero positivo o negativo](https://gist.github.com/SuarezJair04/316d1a390807539894b2b01e7179a81e)
 
-24.[Inversor de signos](https://gist.github.com/SuarezJair04/279c36518a7b0801ec04c5cf21ede574)
+24. [Inversor de signos](https://gist.github.com/SuarezJair04/279c36518a7b0801ec04c5cf21ede574)
 
-25.[Numero decimal redondeado](https://gist.github.com/SuarezJair04/ccc344a27e76744c5393116a0529cc6a)
+25. [Numero decimal redondeado](https://gist.github.com/SuarezJair04/ccc344a27e76744c5393116a0529cc6a)
 
 26. [Generador de piramide](https://gist.github.com/SuarezJair04/686808bb3040eb4e392b2e9a17aa1078)
 
