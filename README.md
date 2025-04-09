@@ -65,7 +65,7 @@
 
 33. [Unir dos cadenas](https://gist.github.com/SuarezJair04/5a3ec69959154365eab3fc8cab088688)
 
-34. []()
+34. [Programa que compara dos palabras](https://gist.github.com/SuarezJair04/62ce6cb491c1dfb16cbf49bd3123bc79)
 
 35. []()
 
