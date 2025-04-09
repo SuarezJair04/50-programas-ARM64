@@ -59,7 +59,7 @@
 
 30. [Escribiendo una cadena de forma inversa](https://gist.github.com/SuarezJair04/b3a1cc5d0bcad1484f9b880d06ba0825)
 
-31. []()
+31. [Verifica si una palabra es un palindromo o no](https://gist.github.com/SuarezJair04/f62a5b2f96067973a9d032a2830799e8)
 
 32. []()
 
