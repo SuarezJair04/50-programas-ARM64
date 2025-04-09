@@ -53,7 +53,7 @@
 
 27. [Suma de digitos](https://gist.github.com/SuarezJair04/1eea4b2e7f8f4f4244ea59706e7219c2)
 
-28. []()
+28. [Contador de numeros negativos y positivos](https://gist.github.com/SuarezJair04/a09f56b44b8312bd89b9138a73c2caa8)
 
 29. []()
 
