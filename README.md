@@ -77,6 +77,6 @@
 
 39. [Programa que te da la bienvenida si escribes un numero del 1 al 10](https://gist.github.com/SuarezJair04/00c52435de4bb1848af9aedac11016cb)
 
-40. []()
+40. [Programa que convierte las horas en minutos](https://gist.github.com/SuarezJair04/d38df7225cee56d27a18ed7d8b2d9b57)
 
 
