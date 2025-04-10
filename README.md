@@ -73,7 +73,7 @@
 
 37. [Programa que convierte millas a kilometros](https://gist.github.com/SuarezJair04/0c00b3c833b1f701ae713993dd82f4c5)
 
-38. []()
+38. [Programa que finaliza cuando se escriba "salir"](https://gist.github.com/SuarezJair04/ae6052a2ec93a92607be3d58e5358b2a)
 
 39. []()
 
