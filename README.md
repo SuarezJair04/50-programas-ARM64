@@ -67,6 +67,16 @@
 
 34. [Programa que compara dos palabras](https://gist.github.com/SuarezJair04/62ce6cb491c1dfb16cbf49bd3123bc79)
 
-35. []()
+35. [Programa que verifica si la letra es una vocal](https://gist.github.com/SuarezJair04/c9098523355dbd4031460d563ec7cef7)
+
+36. []()
+
+37. []()
+
+38. []()
+
+39. []()
+
+40. []()
 
 
