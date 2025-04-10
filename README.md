@@ -75,7 +75,7 @@
 
 38. [Programa que finaliza cuando se escriba "salir"](https://gist.github.com/SuarezJair04/ae6052a2ec93a92607be3d58e5358b2a)
 
-39. []()
+39. [Programa que te da la bienvenida si escribes un numero del 1 al 10](https://gist.github.com/SuarezJair04/00c52435de4bb1848af9aedac11016cb)
 
 40. []()
 
